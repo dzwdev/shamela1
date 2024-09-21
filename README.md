@@ -1,1 +1,2 @@
 # shamela
+makepkg --printsrcinfo > .SRCINFO
