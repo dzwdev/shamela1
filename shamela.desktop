@@ -8,4 +8,4 @@ Keywords=shamela;الشاملة
 Exec=/usr/bin/shamela.sh
 Terminal=false
 Type=Application
-Icon=7583_shamela.0
+Icon=/usr/share/shamela/shamela_icon.png
